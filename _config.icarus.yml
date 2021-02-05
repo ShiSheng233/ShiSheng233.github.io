@@ -157,7 +157,7 @@ comment:
     type: gitalk
     client_id: 82a47830965e1ae7d2e7
     client_secret: d1ff43775477edc448051098c2f915e4226a471e
-    repo: Some-of-Your-GitHub-Repo
+    repo: Blog_Comments
     owner: ShiSheng233
     admin:
         - ShiSheng233
