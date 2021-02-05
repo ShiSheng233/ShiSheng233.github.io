@@ -9,34 +9,11 @@
     <atom:link href="https://blog.shisheng.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Powered by ShiSheng with Love</description>
-    <pubDate>Fri, 05 Feb 2021 14:31:03 GMT</pubDate>
+    <pubDate>Fri, 05 Feb 2021 14:37:55 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>Hello World</title>
-      <link>https://blog.shisheng.icu/2021/02/05/hello-world/</link>
-      <guid>https://blog.shisheng.icu/2021/02/05/hello-world/</guid>
-      <pubDate>Fri, 05 Feb 2021 14:31:03 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://blog.shisheng.icu/2021/02/05/hello-world/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>hello-again</title>
+      <title>Hello again</title>
       <link>https://blog.shisheng.icu/2021/02/05/hello-again/</link>
       <guid>https://blog.shisheng.icu/2021/02/05/hello-again/</guid>
       <pubDate>Fri, 05 Feb 2021 14:13:58 GMT</pubDate>
@@ -45,7 +22,9 @@
         
           
           
-      <description>&lt;h2 id=&quot;Hello-world&quot;&gt;&lt;a href=&quot;#Hello-world&quot; class=&quot;headerlink&quot;</description>
+      <description>&lt;p&gt;嗨，你好，这是莳昇在新Blog发布的第一篇文章。&lt;/p&gt;
+&lt;p&gt;在2021年2月5日晚上22时，我终于配置好了我的新Blog！&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;我一定会写一些有用的东西的&lt;/del&gt;   </description>
           
         
       

@@ -6,7 +6,7 @@
   <link href="https://blog.shisheng.icu/atom.xml" rel="self"/>
   
   <link href="https://blog.shisheng.icu/"/>
-  <updated>2021-02-05T14:31:03.433Z</updated>
+  <updated>2021-02-05T14:37:55.368Z</updated>
   <id>https://blog.shisheng.icu/</id>
   
   <author>
@@ -17,39 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://blog.shisheng.icu/2021/02/05/hello-world/"/>
-    <id>https://blog.shisheng.icu/2021/02/05/hello-world/</id>
-    <published>2021-02-05T14:31:03.433Z</published>
-    <updated>2021-02-05T14:31:03.433Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hello-again</title>
+    <title>Hello again</title>
     <link href="https://blog.shisheng.icu/2021/02/05/hello-again/"/>
     <id>https://blog.shisheng.icu/2021/02/05/hello-again/</id>
     <published>2021-02-05T14:13:58.000Z</published>
-    <updated>2021-02-05T14:31:03.433Z</updated>
+    <updated>2021-02-05T14:37:55.368Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Hello-world&quot;&gt;&lt;a href=&quot;#Hello-world&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;嗨，你好，这是莳昇在新Blog发布的第一篇文章。&lt;/p&gt;
+&lt;p&gt;在2021年2月5日晚上22时，我终于配置好了我的新Blog！&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;我一定会写一些有用的东西的&lt;/del&gt;   </summary>
         
       
     
