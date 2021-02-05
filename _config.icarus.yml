@@ -154,9 +154,18 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: changyan
-    app_id: cyvid457N
-    conf: prod_cdea51fb708aac2e93eb3f13530fc5fd
+    type: gitalk
+    client_id: 82a47830965e1ae7d2e7
+    client_secret: d1ff43775477edc448051098c2f915e4226a471e
+    repo: Blog_Comments
+    owner: ShiSheng233
+    admin:
+        - ShiSheng233
+    per_page: 20                    # 可选填
+    distraction_free_mode: false    # 可选填
+    pager_direction: last           # 可选填
+    enable_hotkey: true             # 可选填
+    language: zh-CN                 # 可选填
 
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
@@ -170,20 +179,14 @@ donates:
     -
         type: alipay
         # Alipay qrcode image URL
-        qrcode: 'https://qr.alipay.com/fkx14216tkffpi0b5ypjaa4
-'
+        qrcode: /images/alipay.jpg
+
     # Wechat donate button configurations
     -
         type: wechat
         # Wechat qrcode image URL
-        qrcode: 'wxp://f2f0dgLcsQ7jBEGRh62Kpij8KNrEph6dVTCZ
-'
-# Share plugin configurations
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
-share:
-    type: sharethis
-    # URL to the ShareThis share plugin script
-    install_url: ''
+        qrcode: /images/wechat.png
+
 # Sidebar configurations.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -230,7 +233,7 @@ widgets:
                 url: 'mailto:ohayou@shisheng.icu'
             RSS:
                 icon: fas fa-rss
-                url: /
+                url: /rss2.xml
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -268,7 +271,7 @@ widgets:
         position: left
         type: links
         # Names and URLs of the sites
-        友情链接:
+        links:
             Hexo: 'https://hexo.io'
             Bulma: 'https://bulma.io'
 # Plugin configurations
