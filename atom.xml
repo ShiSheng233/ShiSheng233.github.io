@@ -6,7 +6,7 @@
   <link href="https://blog.shisheng.icu/atom.xml" rel="self"/>
   
   <link href="https://blog.shisheng.icu/"/>
-  <updated>2021-02-05T10:09:36.752Z</updated>
+  <updated>2021-02-05T14:31:03.433Z</updated>
   <id>https://blog.shisheng.icu/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://blog.shisheng.icu/2021/02/05/hello-world/"/>
     <id>https://blog.shisheng.icu/2021/02/05/hello-world/</id>
-    <published>2021-02-05T10:09:36.752Z</published>
-    <updated>2021-02-05T10:09:36.752Z</updated>
+    <published>2021-02-05T14:31:03.433Z</published>
+    <updated>2021-02-05T14:31:03.433Z</updated>
     
     
       
@@ -34,6 +34,33 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>hello-again</title>
+    <link href="https://blog.shisheng.icu/2021/02/05/hello-again/"/>
+    <id>https://blog.shisheng.icu/2021/02/05/hello-again/</id>
+    <published>2021-02-05T14:13:58.000Z</published>
+    <updated>2021-02-05T14:31:03.433Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Hello-world&quot;&gt;&lt;a href=&quot;#Hello-world&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="hexo" scheme="https://blog.shisheng.icu/tags/hexo/"/>
+    
+    <category term="blog" scheme="https://blog.shisheng.icu/tags/blog/"/>
     
   </entry>
   
