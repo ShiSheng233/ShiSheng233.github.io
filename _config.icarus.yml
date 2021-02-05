@@ -3,8 +3,7 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo:
-    text: ShiSheng's Blog
+logo: images/logo.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -16,25 +15,25 @@ head:
         name: ShiSheng's Blog
         # The displayed name of the web application
         # when there is not enough space to display full name
-        short_name: 
+        short_name: ShiSheng
         # The start URL of the web application
-        start_url: 
+        start_url: https://blog.shisheng.icu/
         # The default theme color for the application
-        theme_color: 
+        theme_color: "#ffa1ac"
         # A placeholder background color for the application page to display
         # before its stylesheet is loaded
-        background_color: 
+        background_color: "#ffa1ac"
         # The preferred display mode for the website
         display: standalone
         # Image files that can serve as application icons for different contexts
         icons:
             -
                 # The path to the image file
-                src: ''
+                src: images/logo.png
                 # A string containing space-separated image dimensions
-                sizes: ''
+                sizes: 3187x758
                 # A hint as to the media type of the image
-                type: 
+                type: image/png
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
@@ -93,9 +92,9 @@ head:
     meta:
         # Meta tag specified in <attribute>=<value> style
         # E.g., name=theme-color;content=#123456 => <meta name="theme-color" content="#123456">
-        - ''
+        - 'name=theme-color;content=#ffa1ac'
     # URL or path to the website's RSS atom.xml
-    rss: 
+    rss: atom.xml
 # Page top navigation bar configurations
 navbar:
     # Navigation menu items
@@ -154,21 +153,15 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: gitalk
-    client_id: 82a47830965e1ae7d2e7
-    client_secret: d1ff43775477edc448051098c2f915e4226a471e
-    repo: Blog_Comments
-    owner: ShiSheng233
-    admin:
-        - ShiSheng233
-    per_page: 20                    # 可选填
-    distraction_free_mode: false    # 可选填
-    pager_direction: last           # 可选填
-    create_issue_manually: false    # 可选填
-    proxy:                          # 可选填
-    flip_move_options:              # 可选填
-    enable_hotkey: true             # 可选填
-    language: zh-CN                 # 可选填
+    type: disqusjs
+    shortname: shishengblog
+    api_key: LO0zKRNXuYzSEnMKyZCWltgkbcidfRUq63pdoYSjfKtdjRRZnZGyKOH2VPIyxfMm
+    api: https://disqus.skk.moe/disqus/
+    admin: shisheng233
+    admin_label: Admin
+    nesting: 5
+
+
 
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
@@ -268,6 +261,13 @@ widgets:
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
         type: tags
+    # Feed
+    -
+        position: left
+        type: subscribe_email
+        # (可选) 描述文字
+        description: 邮件订阅，更新早知道
+        feedburner_id: feedforall/ShishengsBlog
     #Recommendation links widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -275,8 +275,8 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+            双霖博客: 'https://www.linesoft.top/'
+            秋枫微凉: 'https://blog.akinokae.de/'
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
