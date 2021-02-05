@@ -1,5 +1,5 @@
 ---
-title: hello-again
+title: Hello again
 date: 2021-02-05 22:13:58
 categories: 
 	- 杂谈
@@ -7,8 +7,6 @@ tags:
 	- hexo
 	- blog
 ---
-
-## Hello,world!
 
 嗨，你好，这是莳昇在新Blog发布的第一篇文章。
 
