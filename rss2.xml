@@ -9,7 +9,7 @@
     <atom:link href="https://blog.shisheng.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Powered by ShiSheng with Love</description>
-    <pubDate>Thu, 11 Feb 2021 05:34:46 GMT</pubDate>
+    <pubDate>Fri, 12 Feb 2021 14:49:55 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -71,6 +71,37 @@
       
       
       <comments>https://blog.shisheng.icu/2021/02/05/hello-again/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>为什么我放弃了Flarum</title>
+      <link>https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/</link>
+      <guid>https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/</guid>
+      <pubDate>Sun, 24 May 2020 13:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;序&quot;&gt;&lt;a href=&quot;#序&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/Flarum/">Flarum</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/%E8%AE%BA%E5%9D%9B/">论坛</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/#disqus_thread</comments>
       
     </item>
     
