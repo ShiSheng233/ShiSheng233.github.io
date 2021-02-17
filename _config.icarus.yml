@@ -159,7 +159,6 @@ comment:
     api: https://disqus.skk.moe/disqus/
     admin: shisheng233
     admin_label: Admin
-    nesting: 5
 
 
 
@@ -167,10 +166,10 @@ comment:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
     # "Afdian.net" donate button configurations
-    #-
-    #    type: afdian
+    -
+        type: afdian
         # URL to the "Afdian.net" personal page
-    #    url: ''
+        url: 'https://afdian.net/@shisheng'
     # Alipay donate button configurations
     -
         type: alipay
