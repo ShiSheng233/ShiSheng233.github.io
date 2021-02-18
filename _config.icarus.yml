@@ -153,12 +153,11 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: disqusjs
-    shortname: shishengblog
-    api_key: LO0zKRNXuYzSEnMKyZCWltgkbcidfRUq63pdoYSjfKtdjRRZnZGyKOH2VPIyxfMm
-    api: https://disqus.skk.moe/disqus/
-    admin: shisheng233
-    admin_label: Admin
+    type: utterances
+    repo: ShiSheng233/Blog_Comments
+    issue_term: pathname
+    label: 💬
+    theme: github-light
 
 
 
