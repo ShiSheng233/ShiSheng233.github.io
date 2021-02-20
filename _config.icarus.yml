@@ -270,6 +270,7 @@ widgets:
         links:
             双霖博客: 'https://www.linesoft.top/'
             秋枫微凉: 'https://blog.akinokae.de/'
+            RainChan的小博客: 'https://rainchan.win/'
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
@@ -277,26 +278,6 @@ plugins:
     animejs: true
     # Show the "back to top" button
     back_to_top: true
-    # Baidu Analytics plugin settings
-    # https://tongji.baidu.com
-    baidu_analytics:
-        # Baidu Analytics tracking ID
-        tracking_id: 
-    # Bing Webmaster Tools plugin settings
-    # https://www.bing.com/toolbox/webmaster/
-    bing_webmaster:
-        # Bing Webmaster Tools tracking ID in the <meta> tag
-        tracking_id: 
-    # BuSuanZi site/page view counter
-    # https://busuanzi.ibruce.info
-    busuanzi: false
-    # CNZZ statistics
-    # https://www.umeng.com/web
-    cnzz:
-        # CNZZ tracker id
-        id: 
-        # CNZZ website id
-        web_id: 
     # Alerting users about the use of cookies
     # https://www.osano.com/cookieconsent/
     cookie_consent:
@@ -312,16 +293,6 @@ plugins:
         policyLink: 'https://www.cookiesandyou.com/'
     # Enable the lightGallery and Justified Gallery plugins
     gallery: true
-    # Google Analytics plugin settings
-    # https://analytics.google.com
-    google_analytics:
-        # Google Analytics tracking ID
-        tracking_id: 
-    # Hotjar user feedback plugin
-    # https://www.hotjar.com/
-    hotjar:
-        # Hotjar site id
-        site_id: 
     # Enable the KaTeX math typesetting support
     # https://katex.org/
     katex: true
@@ -333,18 +304,6 @@ plugins:
     outdated_browser: true
     # Show a progress bar at top of the page on page loading
     progressbar: true
-    # Statcounter statistics
-    # https://statcounter.com/
-    statcounter:
-        # Statcounter project id
-        project: 
-        # Statcounter project security code
-        security: 
-    # Twitter conversion tracking plugin settings
-    # https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html
-    twitter_conversion_tracking:
-        # Twitter Pixel ID
-        pixel_id: 
 # CDN provider settings
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
