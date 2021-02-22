@@ -6,7 +6,7 @@
   <link href="https://blog.shisheng.icu/atom.xml" rel="self"/>
   
   <link href="https://blog.shisheng.icu/"/>
-  <updated>2021-02-22T10:45:00.625Z</updated>
+  <updated>2021-02-22T15:04:21.584Z</updated>
   <id>https://blog.shisheng.icu/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>记一次为了体验新版KDE而安装Arch</title>
+    <link href="https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/"/>
+    <id>https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/</id>
+    <published>2021-02-22T13:46:38.000Z</published>
+    <updated>2021-02-22T15:04:21.584Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;del&gt;其实我是来传教的&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不建议小白在未做好心理准备的情况下尝试&lt;/p&gt;
+&lt;p&gt;请一点耐心，因为你可能需要1145141919810小时&lt;del&gt;也不能成功&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本文并不会教你安装A</summary>
+        
+      
+    
+    
+    
+    <category term="开发" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="Linux" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Linux/"/>
+    
+    
+    <category term="Arch Linux" scheme="https://blog.shisheng.icu/tags/Arch-Linux/"/>
+    
+    <category term="KDE" scheme="https://blog.shisheng.icu/tags/KDE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>新年快乐</title>
     <link href="https://blog.shisheng.icu/2021/02/11/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
     <id>https://blog.shisheng.icu/2021/02/11/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/</id>
     <published>2021-02-11T04:00:00.000Z</published>
-    <updated>2021-02-22T10:45:00.625Z</updated>
+    <updated>2021-02-22T15:04:21.584Z</updated>
     
     
       
@@ -50,7 +83,7 @@
     <link href="https://blog.shisheng.icu/2021/02/05/hello-again/"/>
     <id>https://blog.shisheng.icu/2021/02/05/hello-again/</id>
     <published>2021-02-05T14:13:58.000Z</published>
-    <updated>2021-02-22T10:45:00.625Z</updated>
+    <updated>2021-02-22T15:04:21.584Z</updated>
     
     
       
@@ -79,7 +112,7 @@
     <link href="https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/"/>
     <id>https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/</id>
     <published>2020-05-24T13:00:00.000Z</published>
-    <updated>2021-02-22T10:45:00.625Z</updated>
+    <updated>2021-02-22T15:04:21.584Z</updated>
     
     
       

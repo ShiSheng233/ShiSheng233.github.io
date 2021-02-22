@@ -9,8 +9,43 @@
     <atom:link href="https://blog.shisheng.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Powered by ShiSheng with Love</description>
-    <pubDate>Mon, 22 Feb 2021 10:45:00 GMT</pubDate>
+    <pubDate>Mon, 22 Feb 2021 15:04:21 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>记一次为了体验新版KDE而安装Arch</title>
+      <link>https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/</link>
+      <guid>https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/</guid>
+      <pubDate>Mon, 22 Feb 2021 13:46:38 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;del&gt;其实我是来传教的&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不建议小白在未做好心理准备的情况下尝试&lt;/p&gt;
+&lt;p&gt;请一点耐心，因为你可能需要1145141919810小时&lt;del&gt;也不能成功&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本文并不会教你安装A</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Linux/">Linux</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/Arch-Linux/">Arch Linux</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/KDE/">KDE</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>新年快乐</title>
