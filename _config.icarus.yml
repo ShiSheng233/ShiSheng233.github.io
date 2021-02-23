@@ -254,13 +254,6 @@ widgets:
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
         type: archives
-    # Feed
-    -
-        position: left
-        type: subscribe_email
-        # (可选) 描述文字
-        description: 邮件订阅，更新早知道
-        feedburner_id: feedforall/ShishengsBlog
     #Recommendation links widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
