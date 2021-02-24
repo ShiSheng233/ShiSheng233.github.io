@@ -7,7 +7,7 @@ logo: images/logo.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/favicon.svg
+    favicon: https://shisheng.icu/files/icon_small.ico
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -29,11 +29,11 @@ head:
         icons:
             -
                 # The path to the image file
-                src: images/logo.png
+                src: https://shisheng.icu/files/icon_small.ico
                 # A string containing space-separated image dimensions
-                sizes: 3187x758
+                sizes: 128x128
                 # A hint as to the media type of the image
-                type: image/png
+                type: image/ico
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
