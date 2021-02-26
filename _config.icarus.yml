@@ -121,7 +121,7 @@ footer:
             url: 'https://creativecommons.org/licenses/by/4.0/'
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+            url: 'https://github.com/ShiSheng233'
 # Article related configurations
 article:
     # Code highlight settings
@@ -207,7 +207,7 @@ widgets:
         # Author's current location
         location: P.R.C
         # URL or path to the avatar image
-        avatar: https://secure.gravatar.com/avatar/94a335ef7d01ea6ce0053a3e56c67303
+        avatar: https://cdn.jsdelivr.net/gh/ShiSheng233/ShiSheng233.github.io@gh-pages/images/profile_image.png
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
