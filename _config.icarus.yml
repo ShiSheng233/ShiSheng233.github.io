@@ -211,7 +211,7 @@ widgets:
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
-        gravatar: flase
+        gravatar: 
         # URL or path for the follow button
         follow_link: 'https://github.com/ShiSheng233'
         # Links to be shown on the bottom of the profile widget
