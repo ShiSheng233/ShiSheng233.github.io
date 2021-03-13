@@ -207,11 +207,11 @@ widgets:
         # Author's current location
         location: P.R.C
         # URL or path to the avatar image
-        avatar: https://cdn.jsdelivr.net/gh/ShiSheng233/ShiSheng233.github.io@gh-pages/images/profile_image.png
+        avatar: https://gravatar.loli.net/avatar/94a335ef7d01ea6ce0053a3e56c67303
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
-        gravatar: shisheng2333@gmail.com
+        gravatar: flase
         # URL or path for the follow button
         follow_link: 'https://github.com/ShiSheng233'
         # Links to be shown on the bottom of the profile widget
@@ -307,6 +307,6 @@ providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
     cdn: jsdelivr
     # Name or URL template of the webfont CDN provider
-    fontcdn: google
+    fontcdn: loli
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: fontawesome
+    iconcdn: loli
