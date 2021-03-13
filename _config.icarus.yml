@@ -261,13 +261,14 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            双霖博客: 'https://www.linesoft.top/'
-            秋枫微凉: 'https://blog.akinokae.de/'
-            RainChan的小博客: 'https://rainchan.win/'
-            Hicool博客: 'https://www.hicool.icu/'
-            SkipM4的日记本: 'https://skipm4.com/'
-            Dr-Mengbao: 'https://www.drmengbao.site/'
-            此地无HM一个: 'http://hm.lite0.cc/'
+            双霖博客: 'https://www.linesoft.top'
+            秋枫微凉: 'https://blog.akinokae.de'
+            RainChan的小博客: 'https://rainchan.win'
+            Hicool博客: 'https://www.hicool.icu'
+            SkipM4的日记本: 'https://skipm4.com'
+            Dr-Mengbao: 'https://www.drmengbao.site'
+            此地无HM一个: 'http://hm.lite0.cc'
+            欧阳淇淇の小屋: 'https://oyqq.xyz'
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
@@ -287,7 +288,7 @@ plugins:
         # Where on the screen the consent popup should display
         position: bottom-left
         # URL to your site's cookie policy
-        policyLink: 'https://www.cookiesandyou.com/'
+        policyLink: 'https://www.cookiesandyou.com'
     # Enable the lightGallery and Justified Gallery plugins
     gallery: true
     # Enable the KaTeX math typesetting support
