@@ -9,8 +9,43 @@
     <atom:link href="https://blog.shisheng.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Powered by ShiSheng with Love</description>
-    <pubDate>Sat, 13 Mar 2021 13:19:36 GMT</pubDate>
+    <pubDate>Sun, 14 Mar 2021 03:38:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>NASA Mars Mission</title>
+      <link>https://blog.shisheng.icu/2021/03/14/Mars-Mission/</link>
+      <guid>https://blog.shisheng.icu/2021/03/14/Mars-Mission/</guid>
+      <pubDate>Sun, 14 Mar 2021 03:19:12 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;好耶！&lt;br&gt;先上我的船票（&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NASA的服务器在中国大陆的加载速度不尽人意，可能得等一会才能加载好&lt;/em&gt;&lt;/p&gt;
+&lt;iframe width=&quot;980&quot; height=&quot;400&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/NASA/">NASA</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/%E7%81%AB%E6%98%9F%E8%88%B9%E7%A5%A8/">火星船票</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/MarsMission/">MarsMission</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/03/14/Mars-Mission/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>初次尝试PortableApps</title>
