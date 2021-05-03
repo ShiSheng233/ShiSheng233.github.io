@@ -1,6 +1,7 @@
 ---
 title: 为什么我放弃了Flarum
 date: 2020-05-24 21:00:00
+updated: 2020-05-24 21:00:00
 categories: 
 	- 杂谈
 	- 开发

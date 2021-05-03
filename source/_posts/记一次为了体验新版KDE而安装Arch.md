@@ -1,6 +1,7 @@
 ---
 title: 记一次为了体验新版KDE而安装Arch
 date: 2021-02-22 21:46:38
+updated: 2021-02-22 21:46:38
 categories: 
 	- 开发
 	- Linux
