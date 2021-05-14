@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="zh"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="theme-color" content="#ffa1ac"><title>标签: Mi2 - ShiSheng&#039;s Blog</title><link rel="manifest" href="/manifest.json"><meta name="theme-color" content="#ffa1ac"><meta name="application-name" content="ShiSheng&#039;s Blog"><meta name="msapplication-TileImage" content="https://shisheng.icu/files/icon_small.ico"><meta name="msapplication-TileColor" content="#ffa1ac"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="ShiSheng&#039;s Blog"><meta name="apple-mobile-web-app-status-bar-style" content="default"><link rel="apple-touch-icon" sizes="128x128" href="https://shisheng.icu/files/icon_small.ico"><meta name="description" content="Powered by ShiSheng with Love"><meta property="og:type" content="blog"><meta property="og:title" content="ShiSheng&#039;s Blog"><meta property="og:url" content="https://blog.shisheng.icu/"><meta property="og:site_name" content="ShiSheng&#039;s Blog"><meta property="og:description" content="Powered by ShiSheng with Love"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://blog.shisheng.icu/img/og_image.png"><meta property="article:author" content="ShiSheng"><meta property="twitter:card" content="summary"><meta property="twitter:image" content="/img/og_image.png"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.shisheng.icu"},"headline":"ShiSheng's Blog","image":["https://blog.shisheng.icu/img/og_image.png"],"author":{"@type":"Person","name":"ShiSheng"},"description":"Powered by ShiSheng with Love"}</script><link rel="alternate" href="/atom.xml" title="ShiSheng&#039;s Blog" type="application/atom+xml"><link rel="icon" href="https://shisheng.icu/files/icon_small.ico"><link rel="stylesheet" href="https://cdnjs.loli.net/ajax/libs/font-awesome/5.12.0/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-light.css"><link rel="stylesheet" href="https://fonts.loli.net/css2?family=Ubuntu:wght@400;600&amp;family=Source+Code+Pro"><link rel="stylesheet" href="/css/default.css"><style>body>.footer,body>.navbar,body>.section{opacity:0}</style><!--!--><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.6.8/dist/css/lightgallery.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.7.0/dist/css/justifiedGallery.min.css"><!--!--><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/outdatedbrowser@1.1.5/outdatedbrowser/outdatedbrowser.min.css"><script src="https://cdn.jsdelivr.net/npm/pace-js@1.0.2/pace.min.js"></script><meta name="generator" content="Hexo 5.3.0"></head><body class="is-2-column"><nav class="navbar navbar-main"><div class="container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/"><img src="/images/logo.png" alt="ShiSheng&#039;s Blog" height="28"></a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">主页</a><a class="navbar-item" href="/archives">存档</a><a class="navbar-item" href="/categories">类别</a><a class="navbar-item" href="/tags">标签</a><a class="navbar-item" href="/about">关于</a></div><div class="navbar-end"><a class="navbar-item search" title="搜索" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-8-widescreen"><div class="card"><div class="card-content"><nav class="breadcrumb" aria-label="breadcrumbs"><ul><li><a href="/tags">标签</a></li><li class="is-active"><a href="#" aria-current="page">Mi2</a></li></ul></nav></div></div><div class="card"><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item"><time dateTime="2021-05-14T14:33:11.000Z" title="5/14/2021, 2:33:11 PM">2021-05-14</time>发表</span><span class="level-item"><time dateTime="2021-05-14T14:33:11.000Z" title="5/14/2021, 2:33:11 PM">2021-05-14</time>更新</span><span class="level-item"><a class="link-muted" href="/categories/%E5%BC%80%E5%8F%91/">开发</a><span> / </span><a class="link-muted" href="/categories/%E5%BC%80%E5%8F%91/Android/">Android</a></span><span class="level-item">7 分钟读完 (大约1115个字)</span></div></div><h1 class="title is-3 is-size-4-mobile"><a class="link-muted" href="/2021/05/14/Build-AOSP-for-Mi2/">初次尝试为Mi2编译AOSP11</a></h1><div class="content"><h2 id="TL-DR"><a href="#TL-DR" class="headerlink" title="TL; DR"></a>TL; DR</h2><p>今年五一面基时，跟 <a target="_blank" rel="noopener" href="https://github.com/hh2333">TH779</a> 聊天时 <del>莫名其妙地</del> 谈起了Mi 2，我这个追求高版本号的人便问起：“这 <del>破</del> Mi2有大佬给适配AOSP11嘛”</p>
-<p>779于是指路 乖亦虎 的<a target="_blank" rel="noopener" href="https://github.com/tiger-cave/local_manifests">项目</a></p>
+<p>779于是指路 乖奕虎 的<a target="_blank" rel="noopener" href="https://github.com/tiger-cave/local_manifests">项目</a></p>
 <p>于是……</p>
 <blockquote>
 <p>刚才有个朋友 <del>(TH779)</del> 问我</p>
@@ -9,7 +9,7 @@
 <p>给我发了几个链接</p>
 <p>我一看</p>
 <p>哦</p>
-<p>原来是乖亦虎佬已经写好了编译方法</p>
+<p>原来是乖奕虎佬已经写好了编译方法</p>
 <p>我说那我肯定得试试啊</p>
 <p>我一说他啪一下就站起来了 <del><em>『他』不指任何一个人</em></del></p>
 <p>很快啊</p>
@@ -51,7 +51,7 @@
 <p><img src="https://i.loli.net/2021/05/14/8nkDqCzKbhpiFoL.jpg" alt="Checkout"></p>
 <p><em>朋友那里的网络条件并不算好，这一步大概消耗了一晚上</em></p>
 <h2 id="编译前准备"><a href="#编译前准备" class="headerlink" title="编译前准备"></a>编译前准备</h2><p><img src="https://i.loli.net/2021/05/15/yptVoS4jT2BK3mh.png" alt="Hu Repo"></p>
-<p>按照乖亦虎的文档，我们只需要执行如下的命令</p>
+<p>按照乖奕虎的文档，我们只需要执行如下的命令</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">. build&#x2F;envsetup.sh</span><br><span class="line"></span><br><span class="line">lunch aosp_aries-userdebug</span><br></pre></td></tr></table></figure>
 <p><img src="https://i.loli.net/2021/05/14/rxiljvk6L8UH92D.jpg" alt="Start Build"></p>
 <p>因为虚拟硬盘拉完Repo过后容量不太够，于是我加了一块，然后调整了 OUT_DIR 这个环境变量，字面意思，它指定了编译时输出的文件去哪里</p>
@@ -81,7 +81,7 @@
 <p>然后就是把刷机包传到我电脑这，刷进去试试</p>
 <h2 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h2><p>通过TWRP，我使用ADB Sideload成功地刷入了编译好的AOSP 11</p>
 <p><img src="https://i.loli.net/2021/05/15/mVQn1ti6K9gkIbW.jpg" alt="Try On"></p>
-<p><del>然后体验并不是很舒服，所以我刷回了乖亦虎制作的Mokee10.0</del></p>
+<p><del>然后体验并不是很舒服，所以我刷回了乖奕虎制作的Mokee10.0</del></p>
 <hr>
 <h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>总而言之，这是次<strong>非常奇怪</strong>的体验</p>
 <p><del><em>特别是在编译时发现有Prebuilt的包</em></del></p>
