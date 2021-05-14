@@ -6,7 +6,7 @@
   <link href="https://blog.shisheng.icu/atom.xml" rel="self"/>
   
   <link href="https://blog.shisheng.icu/"/>
-  <updated>2021-03-14T03:19:12.000Z</updated>
+  <updated>2021-05-14T14:33:11.000Z</updated>
   <id>https://blog.shisheng.icu/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Build-AOSP-for-Mi2</title>
+    <link href="https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/"/>
+    <id>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/</id>
+    <published>2021-05-14T14:33:11.000Z</published>
+    <updated>2021-05-14T14:33:11.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;今年五一面基时，跟 &lt;a href=&quot;https://github.com/hh2333&quot;&gt;TH779&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="开发" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="Android" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Android/"/>
+    
+    
+    <category term="AOSP" scheme="https://blog.shisheng.icu/tags/AOSP/"/>
+    
+    <category term="Mi2" scheme="https://blog.shisheng.icu/tags/Mi2/"/>
+    
+  </entry>
   
   <entry>
     <title>NASA Mars Mission</title>

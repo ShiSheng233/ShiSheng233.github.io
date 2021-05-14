@@ -9,8 +9,39 @@
     <atom:link href="https://blog.shisheng.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Powered by ShiSheng with Love</description>
-    <pubDate>Sun, 14 Mar 2021 03:19:12 GMT</pubDate>
+    <pubDate>Fri, 14 May 2021 14:33:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Build-AOSP-for-Mi2</title>
+      <link>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/</link>
+      <guid>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/</guid>
+      <pubDate>Fri, 14 May 2021 14:33:11 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;今年五一面基时，跟 &lt;a href=&quot;https://github.com/hh2333&quot;&gt;TH779&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Android/">Android</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/AOSP/">AOSP</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/Mi2/">Mi2</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>NASA Mars Mission</title>
