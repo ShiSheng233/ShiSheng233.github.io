@@ -17,7 +17,7 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Build-AOSP-for-Mi2</title>
+    <title>初次尝试为Mi2编译AOSP11</title>
     <link href="https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/"/>
     <id>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/</id>
     <published>2021-05-14T14:33:11.000Z</published>
