@@ -16,10 +16,10 @@ updated: 2021-03-14 11:19:12
 
 *NASA的服务器在中国大陆的加载速度不尽人意，可能得等一会才能加载好*
 
-![](https://s3.ax1x.com/2021/03/14/60EzCV.png)
+![](https://i.loli.net/2021/05/14/onCFuabsv9AjNgJ.png)
 
 你可以在 [https://mars.nasa.gov/participate/send-your-name/future](https://mars.nasa.gov/participate/send-your-name/future) 处获取自己的船票~
 
 ~~如果名字是中文拼音，记得把姓和名倒过来（~~
 
-![好耶](https://s3.ax1x.com/2021/03/14/60iaJU.png)
+![好耶](https://i.loli.net/2021/05/14/kAa3Jzfy8bqolnw.png))

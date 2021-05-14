@@ -18,7 +18,7 @@ tags:
 > 
 > **本文并不会教你安装Arch，只是记录一下**
 
-![成品](https://cdn.jsdelivr.net/gh/ShiSheng233/ShiSheng233.github.io@gh-pages/images/Arch/Done.png)
+![Done](https://i.loli.net/2021/05/14/h1XGPBREpe3fmVT.png)
 
 ## 准备
 
@@ -34,7 +34,7 @@ tags:
 
 3. 安装好Arch Linux
 
-![安装中](https://cdn.jsdelivr.net/gh/ShiSheng233/ShiSheng233.github.io@gh-pages/images/Arch/Installing.png)
+![Installing](https://i.loli.net/2021/05/14/7wnD3QgVsSHdFeU.png)
 
 ## 开始安装KDE5.2.1
 
@@ -99,11 +99,11 @@ $ reboot
 
 2. 好耶
 
-![登录页面](https://cdn.jsdelivr.net/gh/ShiSheng233/ShiSheng233.github.io@gh-pages/images/Arch/Login.png)
+![Login](https://i.loli.net/2021/05/14/OkIzGpbBRDimPe6.png)
 
 *现在好像也不是很好看，但是这是你自己可以改的啦！*
 
-![桌面](https://cdn.jsdelivr.net/gh/ShiSheng233/ShiSheng233.github.io@gh-pages/images/Arch/Desktop.png)
+![Desktop](https://i.loli.net/2021/05/14/axow9dKf86lsrC3.png)
 
 ## 总结
 
