@@ -1,5 +1,5 @@
 ---
-title: Build-AOSP-for-Mi2
+title: 初次尝试为Mi2编译AOSP11
 categories:
   - 开发
   - Android
@@ -166,7 +166,7 @@ make -j8 otapackage
 
 MD，不管了，先去睡觉
 
-第二天上午，~~貌似779当时刚醒~~
+第二天，~~貌似779当时刚有空~~
 
 一顿研究后，779说:
 
