@@ -196,6 +196,14 @@ MD，不管了，先去睡觉
 
 ~~然后体验并不是很舒服，所以我刷回了乖奕虎制作的Mokee10.0~~
 
+~~过了这么久，总算是想起还没发包了~~
+
+[OneDrive](https://shiro233-my.sharepoint.com/:u:/g/personal/shisheng_shiro233_onmicrosoft_com/EbL3ur0PMl9Htz5VmCy70wYBgRmUBFM7ivv_Kgfmgta2_Q?e=2pTyWe) 
+
+MD5 Checksum: 192ACF6FAB57EA78445E33389205B4A3
+
+快快刷入体验一下吧
+
 ---
 
 ## 后记
@@ -208,8 +216,6 @@ MD，不管了，先去睡觉
 
 然后在编译完成后，刷进Mi2体验了一个小时左右就刷回了Mokee
 
-  
-
 但是，最最重要的是这个过程，有好朋友和大佬陪着我
 
 一步一步地指点我操作，跟我一起欢呼编译成功等等等等
@@ -220,4 +226,4 @@ MD，不管了，先去睡觉
 
 以及，在此向所有制作刷机包的大佬们致敬
 
-嘛，今天就这样
+嘛，今天就这样啦
