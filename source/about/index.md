@@ -21,7 +21,7 @@ updated: 2021-02-05 17:25:08
 
 船新的前置页面已经上线，来[康康](https://shisheng.icu)！
 
-❤ [鹿乃](https://space.bilibili.com/316381099) & [甘城なつき](https://www.pixiv.net/users/3036679) & [せんちゃ(Cotton)](https://www.pixiv.net/users/3388329)
+❤ [鹿乃](https://space.bilibili.com/316381099) & [甘城なつき](https://www.pixiv.net/users/3036679) & [せんちゃ](https://www.pixiv.net/users/3388329)
 
 想加入本站的友链吗？请一定要点击这个[链接](https://blog.shisheng.icu/be-my-friend)哦~
 
