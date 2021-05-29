@@ -102,7 +102,7 @@ navbar:
         主页: /
         存档: /archives
         类别: /categories
-        标签: /tags
+        捐赠: /donate
         关于: /about
     # Links to be shown on the right of the navigation bar
     links:
