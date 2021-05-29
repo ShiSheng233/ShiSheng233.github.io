@@ -6,6 +6,10 @@ updated: 2021-05-29 19:52:31
 
 ## 我很可爱，请给我钱
 
+您可以在 [这个页面](https://blog.shisheng.icu/donation-log) 获取全部的赞助记录
+
+非常感谢您向我捐赠
+
 ### 常用方式
 
 ![All Payments](https://cdn.jsdelivr.net/gh/ShiSheng233/ShiSheng233.github.io@master/source/images/paymets.png)
