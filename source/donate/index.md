@@ -12,7 +12,7 @@ updated: 2021-05-29 19:52:31
 
 ### 常用方式
 
-![All Payments](https://cdn.jsdelivr.net/gh/ShiSheng233/ShiSheng233.github.io@master/source/images/paymets.png)
+![All Payments](https://cdn.jsdelivr.net/gh/ShiSheng233/ShiSheng233.github.io@master/source/images/payments.png)
 
 [爱发电](https://afdian.net/@shisheng)
 
