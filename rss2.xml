@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ShiSheng&#39;s Blog</title>
+    <link>https://blog.shisheng.icu/</link>
+    
+    <atom:link href="https://blog.shisheng.icu/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Powered by ShiSheng with Love</description>
+    <pubDate>Mon, 09 Aug 2021 17:00:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>初次尝试配置单臂路由</title>
+      <link>https://blog.shisheng.icu/2021/08/09/try-router-on-a-stick/</link>
+      <guid>https://blog.shisheng.icu/2021/08/09/try-router-on-a-stick/</guid>
+      <pubDate>Mon, 09 Aug 2021 13:56:20 GMT</pubDate>
+      
+      <description>&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;本文并非纯粹讲解如何配置一套单臂路由&lt;/p&gt;
+&lt;p&gt;不过先上成品图&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/ShiSheng233/Blog_Comments@main/img/Router/main.png&quot; alt=&quot;概要界面&quot;&gt;&lt;/p&gt;</description>
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C/">网络</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/OpenWrt/">OpenWrt</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/ImmortalWrt/">ImmortalWrt</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/iPv6/">iPv6</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/08/09/try-router-on-a-stick/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>初次尝试为Mi2编译AOSP11</title>
+      <link>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/</link>
+      <guid>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/</guid>
+      <pubDate>Fri, 14 May 2021 14:33:11 GMT</pubDate>
+      
+      <description>&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;今年五一面基时，跟 &lt;a href=&quot;https://github.com/hh2333&quot;&gt;TH779&lt;/a&gt; 聊天时 &lt;del&gt;莫名其妙地&lt;/del&gt; 谈起了Mi 2，我这个追求高版本号的人便问起：“这 &lt;del&gt;破&lt;/del&gt; Mi2有大佬给适配AOSP11嘛”&lt;/p&gt;
+&lt;p&gt;779于是指路 乖奕虎 的&lt;a href=&quot;https://github.com/tiger-cave/local_manifests&quot;&gt;项目&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;于是……&lt;/p&gt;</description>
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Android/">Android</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/AOSP/">AOSP</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/Mi2/">Mi2</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>NASA Mars Mission</title>
+      <link>https://blog.shisheng.icu/2021/03/14/Mars-Mission/</link>
+      <guid>https://blog.shisheng.icu/2021/03/14/Mars-Mission/</guid>
+      <pubDate>Sun, 14 Mar 2021 03:19:12 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;好耶！&lt;br&gt;先上我的船票（&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NASA的服务器在中国大陆的加载速度不尽人意，可能得等一会才能加载好&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/NASA/">NASA</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/%E7%81%AB%E6%98%9F%E8%88%B9%E7%A5%A8/">火星船票</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/MarsMission/">MarsMission</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/03/14/Mars-Mission/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记一次为了体验新版KDE而安装Arch</title>
+      <link>https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/</link>
+      <guid>https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/</guid>
+      <pubDate>Mon, 22 Feb 2021 13:46:38 GMT</pubDate>
+      
+      <description>&lt;p&gt;&lt;del&gt;其实我是来传教的&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不建议小白在未做好心理准备的情况下尝试&lt;/p&gt;
+&lt;p&gt;请有一点耐心，因为你可能需要1145141919810小时&lt;del&gt;也不能成功&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本文并不会教你安装Arch，只是记录一下&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Linux/">Linux</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/Arch-Linux/">Arch Linux</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/KDE/">KDE</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>新年快乐</title>
+      <link>https://blog.shisheng.icu/2021/02/11/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/</link>
+      <guid>https://blog.shisheng.icu/2021/02/11/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/</guid>
+      <pubDate>Thu, 11 Feb 2021 04:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;一瞬之间。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/2021/">2021</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/%E6%96%B0%E5%B9%B4/">新年</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/02/11/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello again</title>
+      <link>https://blog.shisheng.icu/2021/02/05/hello-again/</link>
+      <guid>https://blog.shisheng.icu/2021/02/05/hello-again/</guid>
+      <pubDate>Fri, 05 Feb 2021 14:13:58 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;嗨，你好，这是莳昇在新Blog发布的第一篇文章。&lt;/p&gt;
+&lt;p&gt;在2021年2月5日晚上22时，我终于配置好了我的新Blog！&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;我一定会写一些有用的东西的&lt;/del&gt;   </description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/hexo/">hexo</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/blog/">blog</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/02/05/hello-again/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>为什么我放弃了Flarum</title>
+      <link>https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/</link>
+      <guid>https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/</guid>
+      <pubDate>Sun, 24 May 2020 13:00:00 GMT</pubDate>
+      
+      <description>&lt;h2 id=&quot;序&quot;&gt;&lt;a href=&quot;#序&quot; class=&quot;headerlink&quot; title=&quot;序&quot;&gt;&lt;/a&gt;序&lt;/h2&gt;&lt;p&gt;Flarum还不错，简洁、轻量化等等，但是当我把它部署在生产环境、开始接收用户时，一些问题便十分突出。&lt;/p&gt;
+&lt;p&gt;最终导致我放弃它的则是许多小问题叠加时产生的共同作用。&lt;/p&gt;
+&lt;p&gt;以下我以两个方面谈优劣。&lt;/p&gt;</description>
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/Flarum/">Flarum</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/%E8%AE%BA%E5%9D%9B/">论坛</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

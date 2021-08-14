@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ShiSheng&#39;s Blog</title>
+  
+  
+  <link href="https://blog.shisheng.icu/atom.xml" rel="self"/>
+  
+  <link href="https://blog.shisheng.icu/"/>
+  <updated>2021-08-09T17:00:00.000Z</updated>
+  <id>https://blog.shisheng.icu/</id>
+  
+  <author>
+    <name>ShiSheng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初次尝试配置单臂路由</title>
+    <link href="https://blog.shisheng.icu/2021/08/09/try-router-on-a-stick/"/>
+    <id>https://blog.shisheng.icu/2021/08/09/try-router-on-a-stick/</id>
+    <published>2021-08-09T13:56:20.000Z</published>
+    <updated>2021-08-09T17:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;本文并非纯粹讲解如何配置一套单臂路由&lt;/p&gt;
+&lt;p&gt;不过先上成品图&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/ShiSheng233/Blog_Comments@main/img/Router/main.png&quot; alt=&quot;概要界面&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="开发" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="网络" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="OpenWrt" scheme="https://blog.shisheng.icu/tags/OpenWrt/"/>
+    
+    <category term="ImmortalWrt" scheme="https://blog.shisheng.icu/tags/ImmortalWrt/"/>
+    
+    <category term="iPv6" scheme="https://blog.shisheng.icu/tags/iPv6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初次尝试为Mi2编译AOSP11</title>
+    <link href="https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/"/>
+    <id>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/</id>
+    <published>2021-05-14T14:33:11.000Z</published>
+    <updated>2021-05-14T14:33:11.000Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;今年五一面基时，跟 &lt;a href=&quot;https://github.com/hh2333&quot;&gt;TH779&lt;/a&gt; 聊天时 &lt;del&gt;莫名其妙地&lt;/del&gt; 谈起了Mi 2，我这个追求高版本号的人便问起：“这 &lt;del&gt;破&lt;/del&gt; Mi2有大佬给适配AOSP11嘛”&lt;/p&gt;
+&lt;p&gt;779于是指路 乖奕虎 的&lt;a href=&quot;https://github.com/tiger-cave/local_manifests&quot;&gt;项目&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;于是……&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="开发" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="Android" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Android/"/>
+    
+    
+    <category term="AOSP" scheme="https://blog.shisheng.icu/tags/AOSP/"/>
+    
+    <category term="Mi2" scheme="https://blog.shisheng.icu/tags/Mi2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NASA Mars Mission</title>
+    <link href="https://blog.shisheng.icu/2021/03/14/Mars-Mission/"/>
+    <id>https://blog.shisheng.icu/2021/03/14/Mars-Mission/</id>
+    <published>2021-03-14T03:19:12.000Z</published>
+    <updated>2021-03-14T03:19:12.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;好耶！&lt;br&gt;先上我的船票（&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NASA的服务器在中国大陆的加载速度不尽人意，可能得等一会才能加载好&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="日常" scheme="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="NASA" scheme="https://blog.shisheng.icu/tags/NASA/"/>
+    
+    <category term="火星船票" scheme="https://blog.shisheng.icu/tags/%E7%81%AB%E6%98%9F%E8%88%B9%E7%A5%A8/"/>
+    
+    <category term="MarsMission" scheme="https://blog.shisheng.icu/tags/MarsMission/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次为了体验新版KDE而安装Arch</title>
+    <link href="https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/"/>
+    <id>https://blog.shisheng.icu/2021/02/22/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%BA%E4%BA%86%E4%BD%93%E9%AA%8C%E6%96%B0%E7%89%88KDE%E8%80%8C%E5%AE%89%E8%A3%85Arch/</id>
+    <published>2021-02-22T13:46:38.000Z</published>
+    <updated>2021-02-22T13:46:38.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;del&gt;其实我是来传教的&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不建议小白在未做好心理准备的情况下尝试&lt;/p&gt;
+&lt;p&gt;请有一点耐心，因为你可能需要1145141919810小时&lt;del&gt;也不能成功&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本文并不会教你安装Arch，只是记录一下&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="开发" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="Linux" scheme="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Linux/"/>
+    
+    
+    <category term="Arch Linux" scheme="https://blog.shisheng.icu/tags/Arch-Linux/"/>
+    
+    <category term="KDE" scheme="https://blog.shisheng.icu/tags/KDE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新年快乐</title>
+    <link href="https://blog.shisheng.icu/2021/02/11/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
+    <id>https://blog.shisheng.icu/2021/02/11/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/</id>
+    <published>2021-02-11T04:00:00.000Z</published>
+    <updated>2021-02-11T04:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一瞬之间。</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="日常" scheme="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="2021" scheme="https://blog.shisheng.icu/tags/2021/"/>
+    
+    <category term="新年" scheme="https://blog.shisheng.icu/tags/%E6%96%B0%E5%B9%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello again</title>
+    <link href="https://blog.shisheng.icu/2021/02/05/hello-again/"/>
+    <id>https://blog.shisheng.icu/2021/02/05/hello-again/</id>
+    <published>2021-02-05T14:13:58.000Z</published>
+    <updated>2021-02-05T14:13:58.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;嗨，你好，这是莳昇在新Blog发布的第一篇文章。&lt;/p&gt;
+&lt;p&gt;在2021年2月5日晚上22时，我终于配置好了我的新Blog！&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;我一定会写一些有用的东西的&lt;/del&gt;   </summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="hexo" scheme="https://blog.shisheng.icu/tags/hexo/"/>
+    
+    <category term="blog" scheme="https://blog.shisheng.icu/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么我放弃了Flarum</title>
+    <link href="https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/"/>
+    <id>https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/</id>
+    <published>2020-05-24T13:00:00.000Z</published>
+    <updated>2020-05-24T13:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;序&quot;&gt;&lt;a href=&quot;#序&quot; class=&quot;headerlink&quot; title=&quot;序&quot;&gt;&lt;/a&gt;序&lt;/h2&gt;&lt;p&gt;Flarum还不错，简洁、轻量化等等，但是当我把它部署在生产环境、开始接收用户时，一些问题便十分突出。&lt;/p&gt;
+&lt;p&gt;最终导致我放弃它的则是许多小问题叠加时产生的共同作用。&lt;/p&gt;
+&lt;p&gt;以下我以两个方面谈优劣。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="开发" scheme="https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Flarum" scheme="https://blog.shisheng.icu/tags/Flarum/"/>
+    
+    <category term="论坛" scheme="https://blog.shisheng.icu/tags/%E8%AE%BA%E5%9D%9B/"/>
+    
+  </entry>
+  
+</feed>
