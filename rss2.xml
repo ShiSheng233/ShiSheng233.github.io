@@ -47,7 +47,7 @@
       <guid>https://blog.shisheng.icu/2021/05/14/Build-AOSP-for-Mi2/</guid>
       <pubDate>Fri, 14 May 2021 14:33:11 GMT</pubDate>
       
-      <description>&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;今年五一面基时，跟 &lt;a href=&quot;https://github.com/hh2333&quot;&gt;TH779&lt;/a&gt; 聊天时 &lt;del&gt;莫名其妙地&lt;/del&gt; 谈起了Mi 2，我这个追求高版本号的人便问起：“这 &lt;del&gt;破&lt;/del&gt; Mi2有大佬给适配AOSP11嘛”&lt;/p&gt;
+      <description>&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;今年五一面基时, 跟 &lt;a href=&quot;https://github.com/hh2333&quot;&gt;TH779&lt;/a&gt; 聊天时 &lt;del&gt;莫名其妙地&lt;/del&gt; 谈起了Mi 2, 我这个追求高版本号的人便问起：“这 &lt;del&gt;破&lt;/del&gt; Mi2有大佬给适配AOSP11嘛”&lt;/p&gt;
 &lt;p&gt;779于是指路 乖奕虎 的&lt;a href=&quot;https://github.com/tiger-cave/local_manifests&quot;&gt;项目&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;于是……&lt;/p&gt;</description>
       
@@ -74,15 +74,9 @@
       <guid>https://blog.shisheng.icu/2021/03/14/Mars-Mission/</guid>
       <pubDate>Sun, 14 Mar 2021 03:19:12 GMT</pubDate>
       
-        
-        
-          
-          
       <description>&lt;p&gt;好耶！&lt;br&gt;先上我的船票（&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;NASA的服务器在中国大陆的加载速度不尽人意，可能得等一会才能加载好&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img</description>
-          
-        
+&lt;p&gt;&lt;em&gt;NASA的服务器在中国大陆的加载速度不尽人意, 可能得等一会才能加载好&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/05/14/onCFuabsv9AjNgJ.png&quot;&gt;&lt;/p&gt;</description>
       
       
       
@@ -112,8 +106,8 @@
       <description>&lt;p&gt;&lt;del&gt;其实我是来传教的&lt;/del&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;不建议小白在未做好心理准备的情况下尝试&lt;/p&gt;
-&lt;p&gt;请有一点耐心，因为你可能需要1145141919810小时&lt;del&gt;也不能成功&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;本文并不会教你安装Arch，只是记录一下&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;请有一点耐心, 因为你可能需要1145141919810小时&lt;del&gt;也不能成功&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本文并不会教你安装Arch, 只是记录一下&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;</description>
       
       
@@ -143,7 +137,10 @@
         
           
           
-      <description>&lt;p&gt;一瞬之间。</description>
+      <description>&lt;p&gt;一瞬之间。 &lt;del&gt;又浪费了宝贵的365天&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;2020年里, 经历了疫情、网课、中考。&lt;/p&gt;
+&lt;p&gt;一场莫大的考验之后, 我们迎来了2021。&lt;/p&gt;
+&lt;p&gt;有太多的事情值得回味,</description>
           
         
       
@@ -174,8 +171,8 @@
         
           
           
-      <description>&lt;p&gt;嗨，你好，这是莳昇在新Blog发布的第一篇文章。&lt;/p&gt;
-&lt;p&gt;在2021年2月5日晚上22时，我终于配置好了我的新Blog！&lt;/p&gt;
+      <description>&lt;p&gt;嗨, 你好, 这是莳昇在新Blog发布的第一篇文章。&lt;/p&gt;
+&lt;p&gt;在2021年2月5日晚上22时, 我终于配置好了我的新Blog！&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;我一定会写一些有用的东西的&lt;/del&gt;   </description>
           
         
@@ -201,7 +198,7 @@
       <guid>https://blog.shisheng.icu/2020/05/24/Why-I-Give-up-Flarum/</guid>
       <pubDate>Sun, 24 May 2020 13:00:00 GMT</pubDate>
       
-      <description>&lt;h2 id=&quot;序&quot;&gt;&lt;a href=&quot;#序&quot; class=&quot;headerlink&quot; title=&quot;序&quot;&gt;&lt;/a&gt;序&lt;/h2&gt;&lt;p&gt;Flarum还不错，简洁、轻量化等等，但是当我把它部署在生产环境、开始接收用户时，一些问题便十分突出。&lt;/p&gt;
+      <description>&lt;h2 id=&quot;序&quot;&gt;&lt;a href=&quot;#序&quot; class=&quot;headerlink&quot; title=&quot;序&quot;&gt;&lt;/a&gt;序&lt;/h2&gt;&lt;p&gt;Flarum还不错, 简洁、轻量化等等, 但是当我把它部署在生产环境、开始接收用户时, 一些问题便十分突出。&lt;/p&gt;
 &lt;p&gt;最终导致我放弃它的则是许多小问题叠加时产生的共同作用。&lt;/p&gt;
 &lt;p&gt;以下我以两个方面谈优劣。&lt;/p&gt;</description>
       
