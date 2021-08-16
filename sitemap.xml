@@ -123,20 +123,6 @@
   </url>
   
   <url>
-    <loc>https://blog.shisheng.icu/tags/hexo/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.shisheng.icu/tags/blog/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.shisheng.icu/tags/Flarum/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
@@ -151,14 +137,14 @@
   </url>
   
   <url>
-    <loc>https://blog.shisheng.icu/tags/2021/</loc>
+    <loc>https://blog.shisheng.icu/tags/hexo/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.shisheng.icu/tags/%E6%96%B0%E5%B9%B4/</loc>
+    <loc>https://blog.shisheng.icu/tags/blog/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -180,6 +166,20 @@
   
   <url>
     <loc>https://blog.shisheng.icu/tags/iPv6/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/2021/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/%E6%96%B0%E5%B9%B4/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -223,6 +223,13 @@
   </url>
   
   <url>
+    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
@@ -231,13 +238,6 @@
   
   <url>
     <loc>https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
