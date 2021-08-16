@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.shisheng.icu/2021/08/16/marcohard-is-too-hard-about-backup/</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.shisheng.icu/2021/08/09/try-router-on-a-stick/</loc>
     
     <lastmod>2021-08-09</lastmod>
@@ -88,20 +95,6 @@
 
   
   <url>
-    <loc>https://blog.shisheng.icu/tags/AOSP/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.shisheng.icu/tags/Mi2/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.shisheng.icu/tags/NASA/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
@@ -117,6 +110,69 @@
   
   <url>
     <loc>https://blog.shisheng.icu/tags/MarsMission/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/AOSP/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/Mi2/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/Microsoft/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/Windows10/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/Backup/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/DataSafety/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/OpenWrt/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/ImmortalWrt/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/iPv6/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -145,27 +201,6 @@
   
   <url>
     <loc>https://blog.shisheng.icu/tags/blog/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.shisheng.icu/tags/OpenWrt/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.shisheng.icu/tags/ImmortalWrt/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.shisheng.icu/tags/iPv6/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -202,13 +237,6 @@
 
   
   <url>
-    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.shisheng.icu/categories/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
@@ -216,14 +244,14 @@
   </url>
   
   <url>
-    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Android/</loc>
+    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C/</loc>
+    <loc>https://blog.shisheng.icu/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -244,7 +272,28 @@
   </url>
   
   <url>
+    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Android/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Linux/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/categories/%E6%97%A5%E5%B8%B8/Windows/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
