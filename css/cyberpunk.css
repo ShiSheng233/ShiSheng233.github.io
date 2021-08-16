@@ -11689,6 +11689,10 @@ figure.highlight .section {
     width: 75%;
   }
 }
+.article .content a img {
+  margin: auto;
+  display: block;
+}
 body {
   counter-reset: card;
 }
