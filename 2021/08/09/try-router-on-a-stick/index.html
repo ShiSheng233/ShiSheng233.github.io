@@ -12,7 +12,7 @@
 <li><a target="_blank" rel="noopener" href="https://www.right.com.cn/forum/thread-4027473-1-1.html">https://www.right.com.cn/forum/thread-4027473-1-1.html</a></li>
 </ul>
 <h3 id="设备"><a href="#设备" class="headerlink" title="设备"></a>设备</h3><ul>
-<li>Rasberry Pi 4B with ImmortalWrt</li>
+<li>Raspberry Pi 4B with ImmortalWrt</li>
 <li>Xiaomi AC2100 with OpenWrt</li>
 </ul>
 <h2 id="配置单臂路由-on-RPi4B"><a href="#配置单臂路由-on-RPi4B" class="headerlink" title="配置单臂路由 (on RPi4B)"></a>配置单臂路由 (on RPi4B)</h2><h3 id="部署-ImmortalWrt"><a href="#部署-ImmortalWrt" class="headerlink" title="部署 ImmortalWrt"></a>部署 ImmortalWrt</h3><p>您可以在 <a target="_blank" rel="noopener" href="https://github.com/immortalwrt/immortalwrt">https://github.com/immortalwrt/immortalwrt</a> 获取项目源码自行编译, 或是在 <a target="_blank" rel="noopener" href="https://downloads.immortalwrt.cnsztl.eu.org/snapshots/targets/bcm27xx/bcm2711">https://downloads.immortalwrt.cnsztl.eu.org/snapshots/targets/bcm27xx/bcm2711</a> 获得由主要开发者 <a target="_blank" rel="noopener" href="https://github.com/1715173329">天灵 (CN_SZTL)</a> 提供的预编译固件</p>
@@ -28,12 +28,12 @@
 
 <p>全局ULA前缀是给你分配内网 IPv6 的, 不过没什么用, 所以一般推荐去掉</p>
 <p>修改完成后执行 <code>/etc/init.d/network restart</code> 重启网络服务</p>
-<p>配置 Rasberry Pi 的部分告一段落</p>
+<p>配置 Raspberry Pi 的部分告一段落</p>
 <h2 id="配置交换机-on-AC2100"><a href="#配置交换机-on-AC2100" class="headerlink" title="配置交换机 (on AC2100)"></a>配置交换机 (on AC2100)</h2><p><em>巨佬们都推荐用 Padavan 开AP模式, 但是使用 OpenWrt 也没有问题</em></p>
 <h3 id="修改-VLAN-配置"><a href="#修改-VLAN-配置" class="headerlink" title="修改 VLAN 配置"></a>修改 VLAN 配置</h3><p>登录 AC2100 的 luci 后台, 在 <code>网络(network) &gt; 交换机(VLAN)</code> 中配置</p>
 <p>下手前, 您需要弄清楚您的AP上接口的顺序, <strong>这很重要</strong></p>
 <p>例如 Xiaomi AC2100 接口的排序是 WAN LAN1 LAN2 LAN3 (从下往上数)</p>
-<p>将 Rasberry Pi 连接至 LAN1(外壳标注的3号口) 作 trunk口 , 在 AC2100 的面板中这样配置</p>
+<p>将 Raspberry Pi 连接至 LAN1(外壳标注的3号口) 作 trunk口 , 在 AC2100 的面板中这样配置</p>
 <table>
 <thead>
 <tr>
@@ -66,7 +66,7 @@
 <h3 id="修改-接口-配置"><a href="#修改-接口-配置" class="headerlink" title="修改 接口 配置"></a>修改 接口 配置</h3><p>进入 <code>网络(network) &gt; 接口(interface)</code> 管理界面</p>
 <p>将 WAN 和 WAN6 的传输协议定义为 <code>不配置协议</code> , 将 LAN 传输协议定义为 <code>DHCP</code></p>
 <p>完成配置后, 选择 保存&amp;应用</p>
-<h2 id="完成配置"><a href="#完成配置" class="headerlink" title="完成配置"></a>完成配置</h2><p>连接上网络后, 在 Rasberry Pi 的 luci 后台进入 <code>网络(network) &gt; 接口(interface)</code> 管理界面</p>
+<h2 id="完成配置"><a href="#完成配置" class="headerlink" title="完成配置"></a>完成配置</h2><p>连接上网络后, 在 Raspberry Pi 的 luci 后台进入 <code>网络(network) &gt; 接口(interface)</code> 管理界面</p>
 <p>将 WAN 的传输协议定义为您上网使用的方式, 例如 PPPoE拨号</p>
 <p>稍等片刻, 连上网络后 <del>大概</del> 就完成了</p>
 <p>完成后, 连接ssh, 使用以下命令导入预编译包的签名文件</p>
@@ -76,10 +76,10 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">opkg update</span><br></pre></td></tr></table></figure>
 <p>耐心等待一会, 即可获取 <del>一大堆</del> 软件包 <del>然后爱咋用咋用</del></p>
 <h2 id="坑-amp-建议"><a href="#坑-amp-建议" class="headerlink" title="坑 &amp; 建议"></a>坑 &amp; 建议</h2><h3 id="FullCone-NAT"><a href="#FullCone-NAT" class="headerlink" title="FullCone NAT"></a>FullCone NAT</h3><p>建议使用 <code>luci-app-turboacc</code> 进行管理</p>
-<p>解决方案: AC2100 上不要开启该功能, 只在 Rasberry Pi 上启用即可达到 FullCone</p>
+<p>解决方案: AC2100 上不要开启该功能, 只在 Raspberry Pi 上启用即可达到 FullCone</p>
 <p><del>前提是您的运营商要支持 FullCone NAT</del></p>
 <h3 id="BBR"><a href="#BBR" class="headerlink" title="BBR"></a>BBR</h3><p><em>来自天灵</em></p>
-<p>AC2100 与 Rasberry Pi 两边的 <code>BBR CCA</code> 都可以关掉, 性能提升不明显, 同时会影响梯子的长连接</p>
+<p>AC2100 与 Raspberry Pi 两边的 <code>BBR CCA</code> 都可以关掉, 性能提升不明显, 同时会影响梯子的长连接</p>
 <h3 id="AC2100"><a href="#AC2100" class="headerlink" title="AC2100"></a>AC2100</h3><p><em>来自天灵</em></p>
 <p>不要运行任何无关服务, 做一个 交换机 + AP 就好</p>
 <h2 id="致谢"><a href="#致谢" class="headerlink" title="致谢"></a>致谢</h2><p>感谢一天以来指导我配置单臂路由并且不厌其烦解答我问题的 天灵</p>
