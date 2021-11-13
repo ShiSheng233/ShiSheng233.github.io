@@ -9,8 +9,44 @@
     <atom:link href="https://blog.shisheng.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Powered by ShiSheng with Love</description>
-    <pubDate>Mon, 16 Aug 2021 12:18:37 GMT</pubDate>
+    <pubDate>Sat, 13 Nov 2021 05:19:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>基于 Microsoft PowerAutomate 构建 Telegram BOT</title>
+      <link>https://blog.shisheng.icu/2021/11/13/PowerAutomate-based-Telegraam-Bot/</link>
+      <guid>https://blog.shisheng.icu/2021/11/13/PowerAutomate-based-Telegraam-Bot/</guid>
+      <pubDate>Sat, 13 Nov 2021 02:55:26 GMT</pubDate>
+      
+      <description>&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;PowerAutomate 是微软附带于 Microsoft 365 中的一项功能，利用它可以完成一些原本需要服务器的操作.&lt;/p&gt;
+&lt;p&gt;官方介绍如下:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Power Automate 是一种可用于在用户最喜欢的应用和服务之间创建自动化工作流的服务，其功能包括同步文件、获取通知、收集数据等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;除了 “拼装” MS官方提供的 API 形成 Workflow, 它也可以像 webhook 一样工作.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/ShiSheng233/Blog_Comments@main/img/PowerAutomate/Overview.png&quot; alt=&quot;主界面&quot;&gt;&lt;/p&gt;
+&lt;p&gt;于是乎, 因为一时的想法, 我试图使用它搭建一个 Telegram BOT , 便开始了探索.&lt;/p&gt;</description>
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/PowerAutomate/">PowerAutomate</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/Microsoft/">Microsoft</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/Telegram/">Telegram</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/serverless/">serverless</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/11/13/PowerAutomate-based-Telegraam-Bot/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>跳出巨坑: 备份和还原(Windows7)</title>
