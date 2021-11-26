@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.shisheng.icu/donate/index.html</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.shisheng.icu/2021/11/13/PowerAutomate-based-Telegram-Bot/</loc>
     
     <lastmod>2021-11-13</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://blog.shisheng.icu/2021/08/09/try-router-on-a-stick/</loc>
     
     <lastmod>2021-08-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.shisheng.icu/donate/index.html</loc>
-    
-    <lastmod>2021-05-29</lastmod>
     
   </url>
   
@@ -235,20 +235,6 @@
   </url>
   
   <url>
-    <loc>https://blog.shisheng.icu/tags/Arch-Linux/</loc>
-    <lastmod>2021-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.shisheng.icu/tags/KDE/</loc>
-    <lastmod>2021-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.shisheng.icu/tags/2021/</loc>
     <lastmod>2021-11-26</lastmod>
     <changefreq>daily</changefreq>
@@ -257,6 +243,20 @@
   
   <url>
     <loc>https://blog.shisheng.icu/tags/%E6%96%B0%E5%B9%B4/</loc>
+    <lastmod>2021-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/Arch-Linux/</loc>
+    <lastmod>2021-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/tags/KDE/</loc>
     <lastmod>2021-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -300,20 +300,6 @@
   </url>
   
   <url>
-    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2021-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Linux/</loc>
-    <lastmod>2021-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2021-11-26</lastmod>
     <changefreq>daily</changefreq>
@@ -329,6 +315,20 @@
   
   <url>
     <loc>https://blog.shisheng.icu/categories/%E6%97%A5%E5%B8%B8/Windows/</loc>
+    <lastmod>2021-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2021-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.shisheng.icu/categories/%E5%BC%80%E5%8F%91/Linux/</loc>
     <lastmod>2021-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
