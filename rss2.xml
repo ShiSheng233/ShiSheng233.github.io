@@ -9,8 +9,39 @@
     <atom:link href="https://blog.shisheng.icu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Powered by ShiSheng with Love</description>
-    <pubDate>Sat, 13 Nov 2021 05:19:26 GMT</pubDate>
+    <pubDate>Sat, 11 Dec 2021 10:11:17 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>某废物的2021</title>
+      <link>https://blog.shisheng.icu/2021/12/11/this-is-my-poor-2021/</link>
+      <guid>https://blog.shisheng.icu/2021/12/11/this-is-my-poor-2021/</guid>
+      <pubDate>Sat, 11 Dec 2021 10:11:17 GMT</pubDate>
+      
+      <description>&lt;h2 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL; DR&quot;&gt;&lt;/a&gt;TL; DR&lt;/h2&gt;&lt;p&gt;记录了一个废物的一年, 对 ShiSheng 来说似乎有什么收获, 但好像什么也没有&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;从前的世界是疯子的天堂. ——《查拉图斯特拉如是说》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;向可爱的 &lt;a href=&quot;https://github.com/lz233&quot;&gt;鱼鱼(lz233)&lt;/a&gt; 致敬, 是她 &lt;a href=&quot;https://lz233.ac.cn/2021/11/27/at-the-epilogue-of-2021&quot;&gt;启发&lt;/a&gt; 了我写这篇总结&lt;/p&gt;</description>
+      
+      
+      
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      <category domain="https://blog.shisheng.icu/categories/%E6%97%A5%E5%B8%B8/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      
+      <category domain="https://blog.shisheng.icu/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/">年终总结</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/2021/">2021</category>
+      
+      <category domain="https://blog.shisheng.icu/tags/2022/">2022</category>
+      
+      
+      <comments>https://blog.shisheng.icu/2021/12/11/this-is-my-poor-2021/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>基于 Microsoft PowerAutomate 构建 Telegram BOT</title>
